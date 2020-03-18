@@ -5,6 +5,8 @@ Based on power Consumption data from Denmark (DK) between 2013 and now available
 https://www.nordpoolgroup.com/historical-market-data/
 
 
+The entire code is available in this repository: <a href="https://github.com/radek2017/anomaly_detection/blob/master/AnomalyDetection.ipynb" target="_blank">Anomaly Detecton</a>.
+
 In this tutorial I am going to present a simple solution of how to make predictions and anomaly detection in multivariate time series (i.e. a time series with many columns). We will predict a multistep future based on the multistep past. The solution can be applied to any time series.
 
 The first step is to load and have a look at the data. Deep learning works best with large sets of data. For this tutorial I have chosen the power consumption data in Denmark, where I live. The data can be downloaded from the <a href="https://www.nordpoolgroup.com/historical-market-data/" target="_blank">Historical Market Data</a> section on the Nord Pool Web site, where energy-related data from all nordic countries can be found.
