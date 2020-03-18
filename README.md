@@ -1,8 +1,6 @@
 # Tutorial: Anomaly Detection in Multivariate Time Series with Keras and LSTM Layers
 
-Based on the power Consumption data from Denmark (DK) between 2013 and now, available at the Nord Pool's Web site:
-
-[Nord Pool - Historical Market Data](https://www.nordpoolgroup.com/historical-market-data/)
+Based on the power Consumption data from Denmark (DK) between 2013 and now, available at the Nord Pool's Web site: [Nord Pool - Historical Market Data](https://www.nordpoolgroup.com/historical-market-data/)
 
 If you have any comments or questions, you are welcome to leave them in the [Issues](./../../issues) section.
 
