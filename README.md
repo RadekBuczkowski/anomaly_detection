@@ -4,7 +4,7 @@ Based on the power Consumption data from Denmark (DK) between 2013 and now, avai
 
 [Nord Pool - Historical Market Data](https://www.nordpoolgroup.com/historical-market-data/)
 
-If you have any comments or questions, you are welcome to leave them in the [Issues](./issues)section.
+If you have any comments or questions, you are welcome to leave them in the [Issues] (./../../issues)section.
 
 The entire code notebook is available in this repository: [Anomaly Detecton](./anomaly_detection.ipynb)
 
