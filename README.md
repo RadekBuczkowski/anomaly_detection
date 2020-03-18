@@ -5,7 +5,11 @@ Based on power Consumption data from Denmark (DK) between 2013 and now available
 https://www.nordpoolgroup.com/historical-market-data/
 
 
-The entire code is available in this repository: [Anomaly Detecton](./AnomalyDetection.ipynb)
+The entire code notebook is available in this repository: [Anomaly Detecton](./AnomalyDetection.ipynb)
+
+You can also run the entire notebook in the
+<a href="https://colab.research.google.com/drive/1JSJAHGhcmyKaWSZy6S9QKoDNqjcOQnsb#scrollTo=JoCh0eqEUGvN" target="_blank">Google Colab</a>.
+
 
 ![](./images/validation_anomalies_zoomed.png)
 
