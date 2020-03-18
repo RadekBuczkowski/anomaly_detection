@@ -5,9 +5,9 @@ Based on power Consumption data from Denmark (DK) between 2013 and now available
 https://www.nordpoolgroup.com/historical-market-data/
 
 
-The entire code is available in this repository: <a href="https://github.com/radek2017/anomaly_detection/blob/master/AnomalyDetection.ipynb" target="_blank">Anomaly Detecton</a>.
+The entire code is available in this repository: <a href="./AnomalyDetection.ipynb" target="_blank">Anomaly Detecton</a>.
 
-![](images/validation_anomalies_zoomed.png =1024x512)
+![](./images/validation_anomalies_zoomed.png)
 
 In this tutorial I am going to present a simple solution of how to make predictions and anomaly detection in multivariate time series (i.e. a time series with many columns). We will predict a multistep future based on the multistep past. The solution can be applied to any time series.
 
